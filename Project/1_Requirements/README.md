@@ -1,1 +1,11 @@
-
+# Description
+  Infrequently electric fan utilization is squandering force as a result of human demeanor. Human 
+additionally generally requests something that effortlessly to be utilized without squandering vitality. To 
+minimize or diminish the force use, this venture added to a programmed framework where pace is 
+controlled by the room temperature.
+  Generally, electronic gadgets create enough heat due to internal loss. There is a necessity to decrease 
+heat to so that electronics devices won’t lose their characteristic. The heat can be minimized in various 
+methods. One of the method is temperature dependent dc fan implementing microcontroller. When 
+environment temperature sensed by the sensor crosses the threshold value fan is switched on and 
+temperature is reduced. The fan will remain on till the temperature reduces below the threshold value. 
+This general idea is used in this project
