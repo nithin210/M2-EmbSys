@@ -6,7 +6,7 @@
 ## High Level Requirements
 ![HighLevelReq](https://github.com/nithin210/M2-EmbSys/blob/af8ea21197baa9893123b85bbe7708d6a989bd69/Project/1_Requirements/HighLevelReq.jpg)
 ## Low Level Requirements
-![LowLevelReq]()
+![LowLevelReq](https://github.com/nithin210/M2-EmbSys/blob/75fd5c9ff804a84c98d072c05fc9bbf2cc1ff9b7/Project/1_Requirements/LowLevelReq.jpg)
 
 # Advantages
 1. It is economical and easy to handle
