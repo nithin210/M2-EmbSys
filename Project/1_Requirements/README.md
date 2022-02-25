@@ -5,4 +5,14 @@ controlled by the room temperature.
 
 # Requirements
 ## High Level Requirements
+## Low Level Requirements
 
+# Advantages
+1. It is economical and easy to handle
+2. Fan runs automatically
+3. It is easy to install in heat dissipating devices to cool them down
+4. Saves energy by turning off fan automatically at room temperature
+
+# Disadvantages
+1. Micro controller is the heart of the circuit, if controller is damaged the whole system will be interrupted.
+2. Speed control is independent of individual preference.
