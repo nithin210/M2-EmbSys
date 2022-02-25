@@ -4,8 +4,19 @@
 
 # Requirements
 ## High Level Requirements
+| ID | Description | 
+| --- | --- | 
+| HR01 | Temperature monitoring.  | 
+| HR02 | Controlling temperature using L293D | 
+| HR03 | Maintaining the temperature. | 
 
 ## Low Level Requirements
+| ID | Description | 
+| --- | --- | 
+| LR01 | Temperature sensor. | 
+| LR02 | AVR ATMega328 | 
+| LR03 | L293D | 
+| LR04 | Cooling fan. | 
 
 # Advantages
 1. It is economical and easy to handle
