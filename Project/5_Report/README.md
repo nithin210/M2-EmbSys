@@ -86,3 +86,8 @@ B used as an output port in ATmega8 microcontroller.
 The ATmega8 microcontroller contains 32 general purpose working registers. As shown in the below 
 figure these registers are directly connected to ALU. Two registers can carry one single instruction
 consequently in one clock cycle.
+
+# Output:
+![Image_1](https://github.com/nithin210/M2-EmbSys/blob/5960f57a232b1cb8739e373e06ad361a4987e1d0/Project/5_Report/Image_1.PNG)
+
+![Image_2]()
