@@ -90,4 +90,4 @@ consequently in one clock cycle.
 # Output:
 ![Image_1](https://github.com/nithin210/M2-EmbSys/blob/5960f57a232b1cb8739e373e06ad361a4987e1d0/Project/5_Report/Image_1.PNG)
 
-![Image_2]()
+![Image_2](https://github.com/nithin210/M2-EmbSys/blob/b7b331bd498fcf1b44011aabb49f59d58b37be52/Project/5_Report/Image_2.png)
