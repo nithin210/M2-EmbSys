@@ -27,3 +27,6 @@
 # Disadvantages
 1. Micro controller is the heart of the circuit, if controller is damaged the whole system will be interrupted.
 2. Speed control is independent of individual preference.
+
+# Block Diagram
+![
