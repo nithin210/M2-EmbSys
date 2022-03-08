@@ -29,4 +29,4 @@
 2. Speed control is independent of individual preference.
 
 # Block Diagram
-![
+![BlockDiagram](https://github.com/nithin210/M2-EmbSys/blob/9c59ec50b76eb8a230349bbe2c90eb2e869c06ae/Project/2_Architecture/BlockDiagram.jpeg}
